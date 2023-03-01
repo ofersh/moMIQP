@@ -1,5 +1,5 @@
 NumOfObj=2;
-MaxNumOfPoints=29;
+MaxNumOfPoints=14;
 n=32;
 w=[0.01,0.01];
 C = 10.0;
